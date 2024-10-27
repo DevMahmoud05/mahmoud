@@ -807,6 +807,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "beb2a76c-3cc7-4533-933d-65edc8ec2192",
+            "title": "متحركة مع خلفية",
+            "icon": "sicon-store",
+            "path": "cdcdddc-sss",
+            "fields": []
         }
     ],
     "support_url": null,
